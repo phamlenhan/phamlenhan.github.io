@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the testing persional website of Le Nhan Pham"
+title: "This is the testing personal website of Le Nhan Pham"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
