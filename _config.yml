@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Le Nhan Pham / Site Title"
+title                    : "Le Nhan Pham"
 title_separator          : "-"
 name                     : &name "Le Nhan Pham"
 description              : &description "personal description"
