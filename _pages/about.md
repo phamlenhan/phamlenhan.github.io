@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is the testing personal website of Le Nhan Pham"
+title: "This personal website is under construction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Some words will be here 
+This website is under construction. For the time being, please have a look at https://sites.google.com/prod/view/lenhanpham
